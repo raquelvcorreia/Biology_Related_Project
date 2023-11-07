@@ -1,0 +1,80 @@
+multidrug transport
+drug transport
+transmembrane transport
+ion transport
+ion homeostasis
+cell wall macromolecule metabolic process
+cell wall modification
+wax biosynthetic process
+fatty acid biosynthetic process
+lipid localization
+lipid transport
+glycine metabolic process
+serine family amino acid catabolic process
+lysine biosynthetic process
+aspartate family amino acid biosynthetic process
+glutamine family amino acid biosynthetic process
+glucosinolate biosynthetic process
+glycosinolate biosynthetic process
+fat-soluble vitamin biosynthetic process
+flavonoid biosynthetic process
+flavonoid metabolic process
+chlorophyll biosynthetic process
+photorespiration
+photosynthesis, dark reaction
+photosynthetic electon transport chain
+photosynthesis, light reaction
+photosynthesis
+starch metabolic process
+polysaccharide metabolic process
+glucan metabolic process
+carbohydrate metabolic process
+carbohydrate biosynthetic process
+glycolysis
+glucose metabolic process
+monosaccharide metabolic process
+apoptosis
+programmed cell death
+aging
+cellular metabolic compound salvage
+reproductive structure development
+post-embryonic development
+cell growth
+cell division
+regulation of cell cycle
+translation
+ribosome biogenesis
+gene expression
+nucleosome organization
+regulation of gene expression
+response to hydrogen peroxide
+response to reactive oxygen species
+systemic acquired resistance
+immune response
+defense response to fungus
+defense response to bacterium
+response to fungus
+response to bacterium
+response to other organism
+response to ozone
+response to UV
+response to blue light
+response to red light
+response to high light intensity
+response to salt stress
+response to oxidative stress
+response to osmotic stress
+response to desiccation
+response to water deprivation
+response to water
+cold acclimation
+response to cold
+response to heat
+response to chitin
+response to ethylene stiumlus
+response to salicylic acid stimulus
+response to auxin stimulus
+response to jasmonic acid stimulus
+response to abscisic acid stimulus
+response to wounding
+response to stress
